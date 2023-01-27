@@ -1,0 +1,5 @@
+.example-spacer{
+    display: flex;
+    flex-wrap: nowrap;
+    column-gap: 30x;   
+}
